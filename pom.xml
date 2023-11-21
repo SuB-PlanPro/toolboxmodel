@@ -6,7 +6,7 @@
 	<groupId>org.eclipse.set</groupId>
 	<artifactId>org.eclipse.set.toolboxmodel.releng.parent</artifactId>
 	<packaging>pom</packaging>
-	<version>60.11.0-SNAPSHOT</version>
+	<version>60.11.2</version>
 
 	<properties>
 		<tycho-version>4.0.4</tycho-version>
